@@ -4,4 +4,4 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 
 ### Business Task: 
 Our company has aimed to maximise its number of annual memberships in order achieve the overall goal of increasing annual revenue. Our Marketing Team needs to design a new marketing strategy to convert casual riders into annual members. I shall be helping my stakeholders with the following finding- 
-How do annual members and casual riders use Cyclistic bikes differently? 
+#### How do annual members and casual riders use Cyclistic bikes differently? 
